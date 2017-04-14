@@ -1,0 +1,63 @@
+<undefined><undefined><undefined><undefined><undefined><undefined><link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700,300" rel="stylesheet" type="text/css"></undefined></undefined></undefined></undefined></undefined></undefined>
+<undefined><undefined><undefined><undefined><undefined><undefined><style type="text/css">
+	.pd__cc-exlusive-tile {
+		width:100%;
+		height:100%;
+		background-color:#003764;
+		position:relative;
+		color:#fff;
+		text-transform:uppercase;
+		text-align:center;
+		letter-spacing:1.4px;
+	}
+	.pd__cc-exlusive-tile-content-wrapper {
+		width:95%;
+		position:absolute;
+  		top:50%;
+  		left:50%;
+  		transform:translate(-50%,-50%);
+  		-webkit-transform:translate(-50%,-50%);
+  		-moz-transform:translate(-50%,-50%);
+	}
+	.pd__cc-exlusive-tile-super-title {
+		font-size:1.1em;
+		margin-bottom:1em;
+		font-weight:300;
+	}
+	.pd__cc-exlusive-tile-title {
+		font-size:1.5em;
+		letter-spacing: 1.5px;
+		line-height:1em;
+	}
+	.pd__cc-exlusive-tile-title sup {
+		font-size:0.5em;
+	}
+	.pd__cc-exlusive-tile-sub-title {
+		margin-bottom:0.5em;
+		font-size:0.9em;
+	}
+	.pd__cc-exlusive-plus-spacer {
+		margin:0.3em 0;
+		font-weight:700;
+	}
+	.pd__cc-exlusive-tile-disclaimer {
+		font-size:0.7em;
+		margin: 0.8em 0;
+		text-transform: none;
+	}
+	.pd__cc-exlusive-tile-code-text {
+		font-size:1.1em;
+	}
+	.pd__cc-exlusive-tile-code-text span {
+		font-weight:700;
+	}
+</style></undefined></undefined></undefined></undefined></undefined></undefined>
+
+	<div class="pd__cc-exlusive-tile">
+		<div class="pd__cc-exlusive-tile-content-wrapper">
+			<div class="pd__cc-exlusive-tile-super-title">IN-STORE &amp; online. Ends 4/17.</div>
+			<div class="pd__cc-exlusive-tile-title"><br></div>
+			<div class="pd__cc-exlusive-tile-sub-title">old navy credit card exclusive</div><div class="pd__cc-exlusive-tile-sub-title"><b><span style="font-size: 1.4em; letter-spacing: 1.5px; font-family: inherit;">extra 10</span><span style="font-size: 1.4em; letter-spacing: 1.5px; font-family: inherit;">% off* your purchase</span></b></div><div class="pd__cc-exlusive-tile-disclaimer">Exclusions apply. Excludes gift cards.</div>
+			<div class="pd__cc-exlusive-tile-code-text"><br></div><div class="pd__cc-exlusive-tile-code-text">code <span>extra</span></div>
+		</div>
+	</div>
