@@ -1,5 +1,4 @@
-<undefined><undefined><undefined><undefined><undefined><undefined><link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700,300" rel="stylesheet" type="text/css"></undefined></undefined></undefined></undefined></undefined></undefined>
-<undefined><undefined><undefined><undefined><undefined><undefined><style type="text/css">
+<style type="text/css">
 	.pd__cc-exlusive-tile {
 		width:100%;
 		height:100%;
@@ -51,7 +50,7 @@
 	.pd__cc-exlusive-tile-code-text span {
 		font-weight:700;
 	}
-</style></undefined></undefined></undefined></undefined></undefined></undefined>
+</style>
 
 	<div class="pd__cc-exlusive-tile">
 		<div class="pd__cc-exlusive-tile-content-wrapper">
