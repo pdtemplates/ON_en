@@ -1,6 +1,6 @@
 <style>
      .svg_overlay_template {
-          width: 100%:
+          width: 100%;
      }
      .svg_overlay_template img {
          max-width: 100%;
@@ -11,6 +11,11 @@
 </style>
 
 <div class="svg_overlay_template">
-	<img src="[PD_ASSET_PATH_BCKG]"/>
-	<img src="[PD_ASSET_PATH_TEXT]"/>
+     
+     <!-- BACKGROUND -->
+     <img src="[PD_ASSET_PATH]"/> 
+     
+     <!-- TEXT -->
+     <img src="[PD_ASSET_PATH]"/> 
+     
 </div>
